@@ -2,11 +2,11 @@
 
 <!--⚡ B.Tech IT student passionate about all things tech especially AI<br/>
 🌱 Studying at Indira Gandhi Delhi Technical University for Women<br/>
-🔭 Currently learning about Full Stack Web Development<br/>
+🔭 Currently learning about Full Stack Web Development<br/>-->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manupreetk)](https://github.com/manupreetk/github-readme-stats)-->
-# 💫 About Me:
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manupreetk)](https://github.com/manupreetk/github-readme-stats)-->
+# 💫 Hi, I'm Manupreet!
 ⚡ B.Tech IT student passionate about all things tech especially AI<br>🌱 Studying at Indira Gandhi Delhi Technical University for Women<br>🔭 Currently learning about Full Stack Web Development
 
 
