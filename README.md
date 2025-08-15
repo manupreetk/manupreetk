@@ -1,4 +1,4 @@
-## Hi, I'm Manupreet!
+
 
 <!--⚡ B.Tech IT student passionate about all things tech especially AI<br/>
 🌱 Studying at Indira Gandhi Delhi Technical University for Women<br/>
